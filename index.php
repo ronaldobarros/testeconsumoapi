@@ -33,7 +33,7 @@
 
 
 			<h1 class="ls-brand-name">
-				<a href="/testaapi" class="ls-ico-multibuckets">
+				<a href="?" class="ls-ico-multibuckets">
 					<small>Consumo API REQ RES</small>
 					Página Teste de Consumo API
 				</a>
